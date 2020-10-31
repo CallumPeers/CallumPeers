@@ -2,7 +2,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=flyingscot5&include_all_commits=true&count_private=true&custom_title=My%20Github%20Stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingscot5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingscot5)
 
 <!--
 **flyingscot5/flyingscot5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
