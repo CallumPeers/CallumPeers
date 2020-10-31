@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/25401022/87229065-1b171200-c39d-11ea-9789-e74f0dad699d.gif" alt="" width="100%"/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=flyingscot5&include_all_commits=true&count_private=true&custom_title=My%20Github%20Stats" alt=""/>
+<p>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=flyingscot5&include_all_commits=true&count_private=true&custom_title=My%20Github%20Stats" alt=""/>
+  </p>
+  <p align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingscot5&layout=compact" alt=""/>
+  </p>
 </p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingscot5&layout=compact" alt=""/>
-</p>
-
 
 
 
