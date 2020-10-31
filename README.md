@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/25401022/87229065-1b171200-c39d-11ea-9789-e74f0dad699d.gif" alt="" width="100%"/>
 ### Hi there 👋
 
-
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=flyingscot5&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
