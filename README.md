@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/25401022/87229065-1b171200-c39d-11ea-9789-e74f0dad699d.gif" alt="" width="100%"/>
 ### Hi there 👋
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=flyingscot5&count_private=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=flyingscot5&include_all_commits=true&count_private=true)
 
 <!--
 **flyingscot5/flyingscot5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
