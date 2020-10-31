@@ -5,12 +5,12 @@
 </p>
 
 <p align="right">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingscot5&layout=compact)
+<!--   Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingscot5&layout=compact) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingscot5&layout=compact" alt=""/>
 </p>
 
-    <a href="">
-      <img alt="Issues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingscot5&layout=compact" />
-    </a>
+
+
 
 
 <!--
