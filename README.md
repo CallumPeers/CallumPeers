@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=flyingscot5&include_all_commits=true&count_private=true&custom_title=My%20Github%20Stats" alt="" align="left" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingscot5&layout=compact" alt="" align="right" width="48%" height="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingscot5&layout=compact" alt="" align="right" width="48%"/>
 
 
 
